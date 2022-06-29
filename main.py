@@ -36,5 +36,5 @@ def multiplication(a,b):
     c =[[m1 + m4 - m5 + m7],[m3 + m5],[m2 + m4],[m1 - m2 + m3 + m6]]
     return c
 
-if __name__ == "__main__:
+if __name__ == "__main__":
     strassens()
